@@ -5,6 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
+   "homepage": "https://codewith-vh.github.io/react-essentials-deep-dive-tic-tac-toe/"
   },
   "dependencies": {
     "react": "^18.0.0",
